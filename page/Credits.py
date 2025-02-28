@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Logo
-image = "resources\\logo.png"
+image = "resources/logo.png"
 st.logo(image, size='large')
 "# 🎖️ Credits & Acknowledgments "
 

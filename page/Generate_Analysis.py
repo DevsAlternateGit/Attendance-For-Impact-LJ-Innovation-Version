@@ -15,7 +15,7 @@ import codes.z_score_analysis as zsa
 
 
 # Logo
-st.logo("resources\\logo.png", icon_image="resources\\logo.png",size='large')
+st.logo("resources/logo.png", icon_image="resources/logo.png",size='large')
 
 # Title
 st.title("Institute Form")
